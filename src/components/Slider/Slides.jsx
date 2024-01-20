@@ -68,5 +68,4 @@ function Slides() {
     </div>
   );
 }
-
 export default Slides;
